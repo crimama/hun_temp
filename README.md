@@ -1,2 +1,4 @@
 # hun_temp
-훈 임시 repository
+Hun's temporary repository 
+
+so exciting !!! 
